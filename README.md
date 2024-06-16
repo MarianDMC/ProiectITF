@@ -26,9 +26,9 @@ Site-ul include pagini precum:
 
 ![Screenshot_2](https://github.com/MarianDMC/ProiectITF/assets/123266007/92d8f8bb-2ba6-4fe7-b834-498bb3d5c967)
 
-5. Apasam tasta enter si proiectul se va clona in locatia selectata.
+4. Apasam tasta enter si proiectul se va clona in locatia selectata.
 
    ![Screenshot_3](https://github.com/MarianDMC/ProiectITF/assets/123266007/9317dcd2-d2b5-4f44-98eb-ad7496a2445f)
 
-6. Dupa clonarea proiectului, il deschidem folosind un IDE, recomand PyCharm, si apoi folosim comenzile in terminal:  pip install -r requirements. txt pentru a instala frameworkul necesar proiectului, cd beersite pentru a intra direct in directorul unde se afla proiectul si python manage.py runserver pentru a porni site-ul pe serverul local.
+5. Dupa clonarea proiectului, il deschidem folosind un IDE, recomand PyCharm, si apoi folosim comenzile in terminal:  pip install -r requirements. txt pentru a instala frameworkul necesar proiectului, cd beersite pentru a intra direct in directorul unde se afla proiectul si python manage.py runserver pentru a porni site-ul pe serverul local.
 
