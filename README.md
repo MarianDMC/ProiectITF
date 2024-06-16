@@ -1,5 +1,5 @@
 # ProiectITF
-Acesta este proiectul final pentru acreditarea curuslui de Python si Testare Automata.
+Acesta este proiectul final pentru acreditarea cursului de Python si Testare Automata.
 
 Proiectul de fata este un mini magazin online cu bere realizat in Python cu ajutorul framework-ului Django.
 Site-ul include pagini precum:
