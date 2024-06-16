@@ -22,7 +22,10 @@ Site-ul include pagini precum:
   ![Screenshot_1](https://github.com/MarianDMC/ProiectITF/assets/123266007/5934b0c5-59f6-4810-a8bb-4bcd5885b2a0)
 
 2. Deschidem Gitbash si modificam folderul unde dorim sa copiem proiectul sau Click-dreapta in folder -> Git Bash here
-3. Folosim comanda git clone 
-5. Ulterior intram pe hostuul local la care adaugam /shop pentru a vedea site-ul.
+3. Folosim comanda git clone si apoi lipim linkul proiectului.
+
+![Screenshot_2](https://github.com/MarianDMC/ProiectITF/assets/123266007/92d8f8bb-2ba6-4fe7-b834-498bb3d5c967)
+
+5. Apasam tasta enter 
 6. Gata!
 
