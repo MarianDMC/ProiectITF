@@ -26,6 +26,9 @@ Site-ul include pagini precum:
 
 ![Screenshot_2](https://github.com/MarianDMC/ProiectITF/assets/123266007/92d8f8bb-2ba6-4fe7-b834-498bb3d5c967)
 
-5. Apasam tasta enter 
-6. Gata!
+5. Apasam tasta enter si proiectul se va clona in locatia selectata.
+
+   ![Screenshot_3](https://github.com/MarianDMC/ProiectITF/assets/123266007/9317dcd2-d2b5-4f44-98eb-ad7496a2445f)
+
+7. Gata!
 
